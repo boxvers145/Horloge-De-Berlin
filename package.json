@@ -1,0 +1,18 @@
+{
+  "name": "horloge-de-berlin",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.7.0"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
